@@ -1,0 +1,10 @@
+
+.inline-2 { 
+    flex-basis: 5%;
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;  
+    grid-gap: 10px;
+    vertical-align: middle;
+    justify-content: center;
+}
