@@ -66,7 +66,7 @@ export default function MatrixTable(props) {
   const generateTable = () => {
     let table = [];
     // Outer loop to create parent
-    let rowVariable = 1;
+    let rowVariable = 0;
     rowVariable = rowValue + rowVariable;
     // console.log(rowVariable)
     for (let i = 0; i < rowVariable; i++) {
