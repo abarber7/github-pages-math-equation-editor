@@ -326,6 +326,7 @@ function ButtonBar(props) {
 function MatrixBar(props){
 return(
   <div className ="Matrix-group">
+    <h4>Create a new matrix</h4>
   <MatrixTable/>
   <input type='submit' />
 </div>  
