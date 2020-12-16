@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df4ad286a8dfaebe35434b3ffc0991b3",
+    "revision": "faa90bbbf2f891fa12726245c80b96c5",
     "url": "/github-pages-math-equation-editor/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-pages-math-equation-editor/static/css/2.35cf31b7.chunk.css"
   },
   {
-    "revision": "cf610c425db6ef7839ae",
-    "url": "/github-pages-math-equation-editor/static/css/main.edb93671.chunk.css"
+    "revision": "3e90d75a2b47594251a3",
+    "url": "/github-pages-math-equation-editor/static/css/main.246ac8e0.chunk.css"
   },
   {
     "revision": "017b2cc0e46c831c14c2",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-pages-math-equation-editor/static/js/2.f8fe7e0f.chunk.js.LICENSE"
   },
   {
-    "revision": "cf610c425db6ef7839ae",
-    "url": "/github-pages-math-equation-editor/static/js/main.b860da13.chunk.js"
+    "revision": "3e90d75a2b47594251a3",
+    "url": "/github-pages-math-equation-editor/static/js/main.a1b8ef8c.chunk.js"
   },
   {
     "revision": "9cae19aadab93c600acb",

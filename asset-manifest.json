@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github-pages-math-equation-editor/static/css/main.edb93671.chunk.css",
-    "main.js": "/github-pages-math-equation-editor/static/js/main.b860da13.chunk.js",
-    "main.js.map": "/github-pages-math-equation-editor/static/js/main.b860da13.chunk.js.map",
+    "main.css": "/github-pages-math-equation-editor/static/css/main.246ac8e0.chunk.css",
+    "main.js": "/github-pages-math-equation-editor/static/js/main.a1b8ef8c.chunk.js",
+    "main.js.map": "/github-pages-math-equation-editor/static/js/main.a1b8ef8c.chunk.js.map",
     "runtime-main.js": "/github-pages-math-equation-editor/static/js/runtime-main.87b41b63.js",
     "runtime-main.js.map": "/github-pages-math-equation-editor/static/js/runtime-main.87b41b63.js.map",
     "static/css/2.35cf31b7.chunk.css": "/github-pages-math-equation-editor/static/css/2.35cf31b7.chunk.css",
     "static/js/2.f8fe7e0f.chunk.js": "/github-pages-math-equation-editor/static/js/2.f8fe7e0f.chunk.js",
     "static/js/2.f8fe7e0f.chunk.js.map": "/github-pages-math-equation-editor/static/js/2.f8fe7e0f.chunk.js.map",
     "index.html": "/github-pages-math-equation-editor/index.html",
-    "precache-manifest.3493c350a3b367ea751d0cef03725bae.js": "/github-pages-math-equation-editor/precache-manifest.3493c350a3b367ea751d0cef03725bae.js",
+    "precache-manifest.6d32fe3406850d23f5a9c300e24d5248.js": "/github-pages-math-equation-editor/precache-manifest.6d32fe3406850d23f5a9c300e24d5248.js",
     "service-worker.js": "/github-pages-math-equation-editor/service-worker.js",
     "static/css/2.35cf31b7.chunk.css.map": "/github-pages-math-equation-editor/static/css/2.35cf31b7.chunk.css.map",
-    "static/css/main.edb93671.chunk.css.map": "/github-pages-math-equation-editor/static/css/main.edb93671.chunk.css.map",
+    "static/css/main.246ac8e0.chunk.css.map": "/github-pages-math-equation-editor/static/css/main.246ac8e0.chunk.css.map",
     "static/js/2.f8fe7e0f.chunk.js.LICENSE": "/github-pages-math-equation-editor/static/js/2.f8fe7e0f.chunk.js.LICENSE",
     "static/media/katex.min.css": "/github-pages-math-equation-editor/static/media/KaTeX_Typewriter-Regular.6cc31ea5.woff2"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.87b41b63.js",
     "static/css/2.35cf31b7.chunk.css",
     "static/js/2.f8fe7e0f.chunk.js",
-    "static/css/main.edb93671.chunk.css",
-    "static/js/main.b860da13.chunk.js"
+    "static/css/main.246ac8e0.chunk.css",
+    "static/js/main.a1b8ef8c.chunk.js"
   ]
 }
