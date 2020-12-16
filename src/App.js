@@ -326,14 +326,8 @@ function ButtonBar(props) {
 function MatrixBar(props){
 return(
   <div className ="Matrix-group">
-    
-  <MyForm/>
-  <div className="adders">
-  <button type="button" onclick="myFunction()">Add Row</button>
-  &nbsp;
-  <button type="button" onclick="myFunction()">Add Column</button>
-  </div>
   <MatrixTable/>
+  <input type='submit' />
 </div>  
 );
 
